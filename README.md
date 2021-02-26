@@ -1,6 +1,6 @@
 # cryptokicks
-Basic code
+Basic code = ("kitty") 
 kitty = user_name
 user_name = ("kitty") 
-print = (user_name 
+print = (user_name) 
 
